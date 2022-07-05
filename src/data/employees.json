@@ -1,0 +1,72 @@
+[
+    {
+      "e_id": 1,
+      "email": "Tiger@gmail.com",
+      "password": "Riger123",
+      "firstName": "Tiger",
+      "lastName": "A"
+    },
+    {
+      "e_id": 2,
+      "email": "Garrett@gmail.com",
+      "password": "Garrett123",
+      "firstName": "Garrett",
+      "lastName": "B"
+    },
+    {
+      "e_id": 3,
+      "email": "Ashton@gmail.com",
+      "password": "Ashton123",
+      "firstName": "Ashton",
+      "lastName": "C"
+    },
+    {
+      "e_id": 4,
+      "email": "Cedric@gmail.com",
+      "password": "Cedric123",
+      "firstName": "Cedric",
+      "lastName": "D"
+    },
+    {
+      "e_id": 5,
+      "email": "Airi@gmail.com",
+      "password": "Airi123",
+      "firstName": "Airi",
+      "lastName": "E"
+    },
+    {
+      "e_id": 6,
+      "email": "Brielle@gmail.com",
+      "password": "Briella123",
+      "firstName": "Brielle",
+      "lastName": "F"
+    },
+    {
+      "e_id": 7,
+      "email": "Herrod@gmail.com",
+      "password": "Herrod123",
+      "firstName": "Herrod",
+      "lastName": "G"
+    },
+    {
+      "e_id": 8,
+      "email": "Rhona@gmail.com",
+      "password": "Rhone123",
+      "firstName": "Rhone",
+      "lastName": "H"
+    },
+    {
+      "e_id": 9,
+      "email": "Colleen@gmail.com",
+      "password": "Colleen123",
+      "firstName": "Colleen",
+      "lastName": "I"
+    },
+    {
+      "e_id": 10,
+      "email": "Sonya@gmail.com",
+      "password": "Sonya123",
+      "firstName": "Sonya",
+      "lastName": "J"
+    }
+  ]

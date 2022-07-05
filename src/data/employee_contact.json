@@ -1,0 +1,122 @@
+[
+    {
+        "employeeId": 1,
+        "phoneNumber": 9837748494,
+        "email": "Tiger@gmail.com",
+        "address": {
+            "houseNumber": 123,
+            "area": "Kalyan Nagar",
+            "city": "Bidar",
+            "state": "Karnataka",
+            "pin": 585444
+        }
+    },
+    {
+        "employeeId": 2,
+        "phoneNumber": 7748938747,
+        "email": "Garrett@gmail.com",
+        "address": {
+            "houseNumber": 123,
+            "area": "Jay Nagar",
+            "city": "Bangaluru",
+            "state": "Karnataka",
+            "pin": 560024
+        }
+    },
+    {
+        "employeeId": 3,
+        "phoneNumber": 9874673829,
+        "email": "Ashton@gmail.com",
+        "address": {
+            "houseNumber": 223,
+            "area": "Srinagar",
+            "city": "Hubbli",
+            "state": "Karnataka",
+            "pin": 580031
+        }
+    },
+    {
+        "employeeId": 4,
+        "phoneNumber": 784763982,
+        "email": "Cedric@gmail.com",
+        "address": {
+            "houseNumber": 773,
+            "area": "SVP Nagar",
+            "city": "Gulbarga",
+            "state": "Karnataka",
+            "pin": 570024
+        }
+    },
+    {
+        "employeeId": 5,
+        "phoneNumber": 774837489,
+        "email": "Airi@gmail.com",
+        "address": {
+            "houseNumber": 333,
+            "area": "JP Nagar",
+            "city": "Mangalore",
+            "state": "Karnataka",
+            "pin": 574145
+        }
+    },
+    {
+        "employeeId": 6,
+        "phoneNumber": 9987498374,
+        "email": "Brielle@gmail.com",
+        "address": {
+            "houseNumber": 665,
+            "area": "KP Nagar",
+            "city": "Udupi",
+            "state": "Karnataka",
+            "pin": 576225
+        }
+    },
+    {
+        "employeeId": 7,
+        "phoneNumber": 8794873649,
+        "email": "Herrod@gmail.com",
+        "address": {
+            "houseNumber": 334,
+            "area": "JMK Nagar",
+            "city": "Hospet",
+            "state": "Karnataka",
+            "pin": 583114
+        }
+    },
+    {
+        "employeeId": 8,
+        "phoneNumber": 8794873649,
+        "email": "Rhona@gmail.com",
+        "address": {
+            "houseNumber": 334,
+            "area": "Kushalnagar",
+            "city": "Kodagu",
+            "state": "Karnataka",
+            "pin": 571215
+        }
+    },
+    {
+        "employeeId": 9,
+        "phoneNumber": 8876589876,
+        "email": "Colleen@gmail.com",
+        "address": {
+            "houseNumber": 387,
+            "area": "SMG Nagar",
+            "city": "Shimoga",
+            "state": "Karnataka",
+            "pin": 577412
+        }
+    },
+    {
+        "employeeId": 10,
+        "phoneNumber": 8874983720,
+        "email": "Sonya@gmail.com",
+        "address": {
+            "houseNumber": 544,
+            "area": "TK Nagar",
+            "city": "Mysore",
+            "state": "Karnataka",
+            "pin": 570023
+        }
+    }
+]
