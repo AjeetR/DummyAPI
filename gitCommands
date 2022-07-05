@@ -1,0 +1,32 @@
+initiate git
+git init -b master
+
+git status
+
+git log
+
+git add . // add all files 
+
+git commit -m "Commit Message"
+
+git log
+
+Add your code to your remote repository 
+PS C:\Study\Dummy_API> git remote add origin git@github.com:AjeetR/DummyAPI.git	
+
+S C:\Study\Dummy_API> git log
+commit 4d9a1d0a7d5837c20284d54ac765c3cdfe37345d (HEAD -> master)
+Author: AjeetR <mathajeet1@gmail.com>
+Date:   Wed Jul 6 00:44:33 2022 +0530
+
+    First Commit
+PS C:\Study\Dummy_API> git remote add origin git@github.com:AjeetR/DummyAPI.git
+PS C:\Study\Dummy_API> git remore -v
+git: 'remore' is not a git command. See 'git --help'.
+
+The most similar command is
+        remote
+
+PS C:\Study\Dummy_API> git remote -v
+origin  git@github.com:AjeetR/DummyAPI.git (fetch)
+origin  git@github.com:AjeetR/DummyAPI.git (push)
