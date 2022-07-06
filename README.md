@@ -1,2 +1,2 @@
 # DummyAPI
-Built simple Employee API
+Sample Employee API
